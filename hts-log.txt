@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 22 Aug 2023 21:13:34 at https://html.creativegigstf.com/deski/deski/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.creativegigstf.com/deski/deski/ -O1 "C:\Users\ernsi\Downloads\Deski" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:21:14	Error: 	"Not Found" (404) at link https://html.creativegigstf.com/deski/deski/contact-us(light).html (from https://html.creativegigstf.com/deski/deski/)
+21:21:45	Error: 	"Not Found" (404) at link https://html.creativegigstf.com/deski/deski/doc-fullwidth.htmll (from https://html.creativegigstf.com/deski/deski/index-event.html)
+21:22:20	Error: 	"Not Found" (404) at link https://html.creativegigstf.com/deski/deski/index (from https://html.creativegigstf.com/deski/deski/index(appointment-scheduling).html)
+21:22:28	Error: 	"Not Found" (404) at link https://html.creativegigstf.com/deski/deski/productV1.html (from https://html.creativegigstf.com/deski/deski/shop-details.html)
+21:22:28	Error: 	"Not Found" (404) at link https://html.creativegigstf.com/deski/deski/popper.js (from https://html.creativegigstf.com/deski/deski/vendor/bootstrap/js/bootstrap.min.js)
+21:22:28	Error: 	"Not Found" (404) at link https://html.creativegigstf.com/deski/deski/dist/ (from https://html.creativegigstf.com/deski/deski/vendor/aos-next/dist/aos.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 55 seconds : 1133 links scanned, 1126 files written (54813913 bytes overall) [38700856 bytes received at 72338 bytes/sec], 36241017 bytes transferred using HTTP compression in 641 files, ratio 54%, 24.1 requests per connection
+(6 errors, 0 warnings, 0 messages)
