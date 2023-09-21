@@ -1,0 +1,29 @@
+.a{
+    color:black;
+}
+.logo{
+    display: block;
+    max-width: 120px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 45px;
+}
+.txt-loading{
+    line-height: 70px;
+    color:#655c97;
+    font-family:Rubik;
+    font-weight: 500;
+    letter-spacing: 15px;
+    display: inline-block;
+    font-size: 70px;
+    line-height: 70px;
+    color:rgb(101 92 151 / 14%);
+}.col-lg-8 {
+    margin-left: auto;
+    margin-right: auto;
+}
+.theme-btn-one{
+    margin-top: 40px;
+}
